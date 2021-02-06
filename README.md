@@ -10,4 +10,4 @@ Requirements:
 Start it with:
 `$ streamlit run eeo.py`
 
-Test it with the `example.txt` file!
+Test it with the `example.csv` file!
