@@ -1,6 +1,6 @@
 #Title: Enzyme Expression Optimization
 #Author: Alexandre Schoepfer
-#Version: 06.02.2021
+#Version: 10.02.2021
 
 #Import libraries
 import math
