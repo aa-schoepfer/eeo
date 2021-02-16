@@ -1,0 +1,7 @@
+name: eeo
+dependencies:
+  - seaborn
+  - scikit-learn
+  - openpyxl
+  - pip:
+    - streamlit
