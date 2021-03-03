@@ -1,6 +1,8 @@
 # Enzyme Expression Optimization
 Web tool based on Python and Streamlit to quickly optimize protein expression using Scikit-learn.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/aa-schoepfer/eeo/main/eeo.py)
+
 Requirements:
 
 - Streamlit
