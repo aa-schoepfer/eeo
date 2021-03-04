@@ -1,8 +1,8 @@
-seaborn==0.11.0
+seaborn==0.11.1
 streamlit==0.76.0
-numpy==1.19.1
-matplotlib==3.3.2
+numpy==1.19.2
+matplotlib==3.3.4
 openpyxl==3.0.6
-pandas==1.2.3
-scipy==1.5.2
-scikit_learn==0.24.1
+pandas==1.2.1
+scipy==1.6.0
+scikit_learn==0.23.2
